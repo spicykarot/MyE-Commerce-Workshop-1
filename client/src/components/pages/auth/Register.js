@@ -21,7 +21,7 @@ const Register = () => {
         if(value.password !== value.cfpassword){
             alert("Password not match")
         }else{
-            alert("OK")
+            alert("OK!!")
         }
     }
 
